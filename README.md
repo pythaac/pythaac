@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pythaac)](https://solved.ac/pythaac)  
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pythaac)](https://solved.ac/pythaac)
 [![pythaac's github stats](https://github-readme-stats.vercel.app/api?username=pythaac&show_icons=true&theme=great-gatsby)](https://github.com/pythaac/github-readme-stats)  
