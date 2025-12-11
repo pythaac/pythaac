@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![pythaac's github stats](https://github-readme-stats.vercel.app/api?username=pythaac&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythaac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=pythaac)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pythaac&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
 <div align="center">
-  
-  [![pythaac's github stats](https://github-readme-stats.vercel.app/api?username=pythaac&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythaac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-  
-  
+
 </div>
